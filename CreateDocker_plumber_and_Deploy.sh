@@ -1,3 +1,6 @@
+## Script to bluid docker image en push it to your kubernetes cluster on GCP
+## Then start the services.....
+
 
 ## set project id
 export PROJECT_ID="$(gcloud config get-value project -q)"
