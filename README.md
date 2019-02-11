@@ -5,3 +5,5 @@ Some files needed to deploy a R h2o home value model with R plumber on GCP. The 
 * create docker image
 * push docker image
 * create services
+
+The model is already created in h2o and saved with h2o.saveModel in R
